@@ -21,7 +21,7 @@ namespace SimpleVariablerOpgave2
             double t2 = Convert.ToDouble(tal2);
             double resultat = t1 + t2;
             Console.WriteLine(resultat.ToString("N2"));
-            Console.ReadKey();
+        
 
             if (System.Diagnostics.Debugger.IsAttached)
             {
