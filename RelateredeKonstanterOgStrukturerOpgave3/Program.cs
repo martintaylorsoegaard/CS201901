@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using RelateredeKonstanterOgStrukturerOpgave1_;
+using RelateredeKonstanterOgStrukturerOpgave2;
 
 namespace RelateredeKonstanterOgStrukturerOpgave3
 {
@@ -11,9 +11,9 @@ namespace RelateredeKonstanterOgStrukturerOpgave3
     {
         static void Main(string[] args)
         {
+
+
             
-
-
 
             if (System.Diagnostics.Debugger.IsAttached)
             {
