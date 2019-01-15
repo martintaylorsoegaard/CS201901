@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelateredeKonstanterOgStruk
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelateredeKonstanterOgStrukturerOpgave3", "RelateredeKonstanterOgStrukturerOpgave3\RelateredeKonstanterOgStrukturerOpgave3.csproj", "{D17767CC-6520-4457-B436-A93D35D8D38C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programflow1", "Programflow1\Programflow1.csproj", "{28CD16AD-A750-4DD7-BAB0-4CD5EBF40252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programflow2", "Programflow2\Programflow2.csproj", "{4E18BBDF-31AC-450B-ACFB-78A64D6EE3C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{D17767CC-6520-4457-B436-A93D35D8D38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D17767CC-6520-4457-B436-A93D35D8D38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D17767CC-6520-4457-B436-A93D35D8D38C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28CD16AD-A750-4DD7-BAB0-4CD5EBF40252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28CD16AD-A750-4DD7-BAB0-4CD5EBF40252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28CD16AD-A750-4DD7-BAB0-4CD5EBF40252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28CD16AD-A750-4DD7-BAB0-4CD5EBF40252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E18BBDF-31AC-450B-ACFB-78A64D6EE3C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E18BBDF-31AC-450B-ACFB-78A64D6EE3C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E18BBDF-31AC-450B-ACFB-78A64D6EE3C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E18BBDF-31AC-450B-ACFB-78A64D6EE3C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

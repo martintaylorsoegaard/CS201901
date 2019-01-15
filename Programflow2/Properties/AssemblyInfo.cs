@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RelateredeKonstanterOgStrukturerOpgave2")]
+[assembly: AssemblyTitle("Programflow2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RelateredeKonstanterOgStrukturerOpgave2")]
+[assembly: AssemblyProduct("Programflow2")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("1f3a9c84-4cc5-47d1-9dd6-4b7654a73ac9")]
+[assembly: Guid("4e18bbdf-31ac-450b-acfb-78a64d6ee3c2")]
 
 // Version information for an assembly consists of the following four values:
 //

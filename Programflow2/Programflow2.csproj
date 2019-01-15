@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1F3A9C84-4CC5-47D1-9DD6-4B7654A73AC9}</ProjectGuid>
+    <ProjectGuid>{4E18BBDF-31AC-450B-ACFB-78A64D6EE3C2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>RelateredeKonstanterOgStrukturerOpgave2</RootNamespace>
-    <AssemblyName>RelateredeKonstanterOgStrukturerOpgave2</AssemblyName>
+    <RootNamespace>Programflow2</RootNamespace>
+    <AssemblyName>Programflow2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
