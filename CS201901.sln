@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleVariableOpgave1", "Op
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleVariableOpgave2", "SimpleVariablerOpgave2\SimpleVariableOpgave2.csproj", "{34B50C3D-AF0A-4F7B-ACEE-E68B564E5920}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleVariableOpgave3", "SimpleVariableOpgave3\SimpleVariableOpgave3.csproj", "{03EF39B7-B621-4264-BB3E-AC01D301149A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleVariableOpgave4", "SimpleVariableOpgave4\SimpleVariableOpgave4.csproj", "{3951994A-3489-4297-8DAF-0D8CC8D66CD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{34B50C3D-AF0A-4F7B-ACEE-E68B564E5920}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34B50C3D-AF0A-4F7B-ACEE-E68B564E5920}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34B50C3D-AF0A-4F7B-ACEE-E68B564E5920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03EF39B7-B621-4264-BB3E-AC01D301149A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EF39B7-B621-4264-BB3E-AC01D301149A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EF39B7-B621-4264-BB3E-AC01D301149A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EF39B7-B621-4264-BB3E-AC01D301149A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3951994A-3489-4297-8DAF-0D8CC8D66CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3951994A-3489-4297-8DAF-0D8CC8D66CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3951994A-3489-4297-8DAF-0D8CC8D66CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3951994A-3489-4297-8DAF-0D8CC8D66CD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
