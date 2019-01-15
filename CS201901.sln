@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleVariableOpgave4", "Si
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelateredeKonstanterOgStrukturerOpgave1", "RelateredeKonstanterOgStrukturerOpgave1\RelateredeKonstanterOgStrukturerOpgave1.csproj", "{51161FAE-8E44-4498-9AE8-9ACCF6B836DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelateredeKonstanterOgStrukturerOpgave2", "RelateredeKonstanterOgStrukturerOpgave1_\RelateredeKonstanterOgStrukturerOpgave2.csproj", "{B4500D67-2B07-4A2E-8703-E1A728E7C550}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelateredeKonstanterOgStrukturerOpgave1_", "RelateredeKonstanterOgStrukturerOpgave1_\RelateredeKonstanterOgStrukturerOpgave1_.csproj", "{B4500D67-2B07-4A2E-8703-E1A728E7C550}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelateredeKonstanterOgStrukturerOpgave3", "RelateredeKonstanterOgStrukturerOpgave3\RelateredeKonstanterOgStrukturerOpgave3.csproj", "{D17767CC-6520-4457-B436-A93D35D8D38C}"
 EndProject
