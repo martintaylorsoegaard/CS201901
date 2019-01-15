@@ -12,14 +12,18 @@ namespace RelateredeKonstanterOgStrukturerOpgave3
         static void Main(string[] args)
         {
 
-            Spillekort s1 = new Spillekort();
-            s1.Værdi = KortVærdi.To;
-            s1.Kulør = KortKulør.Spar;
+            Spillekort s1 = new Spillekort
+            {
+                Værdi = KortVærdi.To,
+                Kulør = KortKulør.Spar
+            };
             Console.WriteLine($"{s1.Kulør} {s1.Værdi}");
 
-            Spillekort s2 = new Spillekort();
-            s2.Værdi = KortVærdi.Ti;
-            s2.Kulør = KortKulør.Hjerter;
+            Spillekort s2 = new Spillekort
+            {
+                Værdi = KortVærdi.Ti,
+                Kulør = KortKulør.Hjerter
+            };
             Console.WriteLine($"{s2.Kulør} {s2.Værdi}");
 
 
