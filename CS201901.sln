@@ -38,7 +38,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FC800689-5FFA-4CE3-B4CC-584C811CC542}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
+		web.config = web.config
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST", "TEST\TEST.csproj", "{B0E50AA4-ACEE-4BC9-8319-5AB7DA0AE3A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -110,6 +113,10 @@ Global
 		{B2F28355-377D-4ADA-A2C3-535631D3C31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2F28355-377D-4ADA-A2C3-535631D3C31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2F28355-377D-4ADA-A2C3-535631D3C31A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0E50AA4-ACEE-4BC9-8319-5AB7DA0AE3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E50AA4-ACEE-4BC9-8319-5AB7DA0AE3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E50AA4-ACEE-4BC9-8319-5AB7DA0AE3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E50AA4-ACEE-4BC9-8319-5AB7DA0AE3A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
