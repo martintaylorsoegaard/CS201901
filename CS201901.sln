@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programflow1", "Programflow
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programflow2", "Programflow2\Programflow2.csproj", "{4E18BBDF-31AC-450B-ACFB-78A64D6EE3C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metode1", "Metode1\Metode1.csproj", "{FFFED916-BEF8-4493-AB56-0754781DA301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metoder2", "Metoder2\Metoder2.csproj", "{32B2ED59-F0DA-4A4A-A94D-C405FB8007BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{4E18BBDF-31AC-450B-ACFB-78A64D6EE3C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E18BBDF-31AC-450B-ACFB-78A64D6EE3C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E18BBDF-31AC-450B-ACFB-78A64D6EE3C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFFED916-BEF8-4493-AB56-0754781DA301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFED916-BEF8-4493-AB56-0754781DA301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFED916-BEF8-4493-AB56-0754781DA301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFED916-BEF8-4493-AB56-0754781DA301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B2ED59-F0DA-4A4A-A94D-C405FB8007BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B2ED59-F0DA-4A4A-A94D-C405FB8007BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B2ED59-F0DA-4A4A-A94D-C405FB8007BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B2ED59-F0DA-4A4A-A94D-C405FB8007BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
