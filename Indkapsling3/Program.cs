@@ -4,18 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Klasser3
+namespace Indkapsling3
 {
     internal class Program
     {
         private static void Main(string[] args)
         {
-            int res1 = Beregninger.LægSammen(5, 9);
-            int res2 = Beregninger.TrækFra(12, 4);
+            Person p1 = new Person
+            {
+                Fornavn = "Hans",
+                Efternavn = "Petersen"
+            };
 
-            Console.WriteLine("LægSammen giver " + res1);
-            Console.WriteLine("TrækFra giver " + res2);
+            // FuldtNavn er egenskab
+            //Console.WriteLine(p1.FuldtNavn);
 
+            // FuldtNavn er metode
+            Console.WriteLine(p1.FuldtNavn());
 
             if (System.Diagnostics.Debugger.IsAttached)
             {

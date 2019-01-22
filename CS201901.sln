@@ -56,6 +56,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indkapsling2", "Indkapsling
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasser3", "Klasser3\Klasser3.csproj", "{92611F1B-2C9A-45EE-A207-0FAD79AE4C9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasser4", "Klasser4\Klasser4.csproj", "{F7082A10-01BA-43DE-BAB3-2545E7CBB487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indkapsling3", "Indkapsling3\Indkapsling3.csproj", "{D51E293B-B64E-4918-B055-A05E8264642D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -158,6 +162,14 @@ Global
 		{92611F1B-2C9A-45EE-A207-0FAD79AE4C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92611F1B-2C9A-45EE-A207-0FAD79AE4C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92611F1B-2C9A-45EE-A207-0FAD79AE4C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7082A10-01BA-43DE-BAB3-2545E7CBB487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7082A10-01BA-43DE-BAB3-2545E7CBB487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7082A10-01BA-43DE-BAB3-2545E7CBB487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7082A10-01BA-43DE-BAB3-2545E7CBB487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D51E293B-B64E-4918-B055-A05E8264642D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51E293B-B64E-4918-B055-A05E8264642D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51E293B-B64E-4918-B055-A05E8264642D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51E293B-B64E-4918-B055-A05E8264642D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
