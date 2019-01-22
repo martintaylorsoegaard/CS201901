@@ -18,7 +18,15 @@ namespace Indkapsling4
             t1.Skriv();
             t1.Ryst();
             t1.Skriv();
-
+            Console.WriteLine();
+            Terning t2 = new Terning();
+            t2.Skriv();
+            t2.Ryst();
+            t2.Skriv();
+            t2.Ryst();
+            t2.Skriv();
+            t2.Ryst();
+            t2.Skriv();
 
             if (System.Diagnostics.Debugger.IsAttached)
             {

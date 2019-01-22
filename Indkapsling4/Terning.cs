@@ -15,12 +15,11 @@ namespace Indkapsling4
         {
             get
             {
-                Console.WriteLine($"Terningens værdi er aflæst til {this._værdi}");
+                
                 return this._værdi;
             }
             set
             {
-                Console.WriteLine($"Terningen er blevet rystet og har fået værdien {this.Værdi}");
                 if (value <= 6 && value >= 1)
                 {
                     this._værdi = value;
@@ -36,15 +35,21 @@ namespace Indkapsling4
         {
             this._værdi = værdi;
         }
+        public Terning()
+        {
+            this.Ryst();
+        }
 
 
         public void Ryst()
         {
+            Console.WriteLine($"Terningen er blevet rystet");
             this.Værdi = rnd.Next(1, 7);
         }
 
         public void Skriv()
         {
+            Console.WriteLine($"Terningens værdi er aflæst:");
             Console.WriteLine($"[{this.Værdi}]");
         }
 
