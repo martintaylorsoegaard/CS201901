@@ -13,7 +13,7 @@ namespace Fejlhåndtering2
             string filePath = @"c:\temp\tal.txt";
             bool fileExists = System.IO.File.Exists(filePath);
             if (fileExists == false)
-                throw new System.ApplicationException($"Filen {filePath} eksister ikke");
+                throw new System.ApplicationException($"Filen {filePath} eksister");
 
             string textInFile = "";
             try
