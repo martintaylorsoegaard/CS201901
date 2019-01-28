@@ -32,7 +32,7 @@ namespace Arv4
             this.Værdi = rnd.Next(1, 7);
         }
 
-        public void Skriv()
+        public virtual void Skriv()
         {
             Console.WriteLine($"[{this.Værdi}]");
         }

@@ -18,8 +18,16 @@ namespace Arv4
             {
                 t1.Ryst();
                 t1.Skriv();
-                Console.WriteLine(t1.ErGlobus());
-                Console.WriteLine(t1.ErStjerne());
+            }
+
+            Console.WriteLine();
+
+            Terning t2 = new Terning();
+            t2.Skriv();
+            for (int i = 0; i < 10; i++)
+            {
+                t2.Ryst();
+                t2.Skriv();
             }
 
 
