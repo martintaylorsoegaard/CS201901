@@ -4,7 +4,7 @@ namespace Events2
 {
     public class Kunde
     {
-        public event EventHandler KreditOverskredet;
+        //public event EventHandler KreditOverskredet;
 
         public string Navn
         {
@@ -24,7 +24,7 @@ namespace Events2
             this.Saldo -= værdi;
             if (Saldo < KreditMax)
             {
-                KreditOverskredet();
+                //KreditOverskredet();
             }
         }
     }
