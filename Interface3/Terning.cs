@@ -16,17 +16,17 @@
             }
         }
 
-        public ITilfældighedsGenerator Generator{get; set;}
+        private ITilfældighedsGenerator generator;
 
 
         public void Ryst()
         {
-            this.Værdi = this.Generator.FindTalTilTerning();
+            this.Værdi = this.generator.FindTalTilTerning();
         }
 
         public Terning(ITilfældighedsGenerator tilfældigtTalGenerator)
         {
-            this.Generator = tilfældigtTalGenerator;
+            this.generator = tilfældigtTalGenerator;
             this.Ryst();
         }
 
